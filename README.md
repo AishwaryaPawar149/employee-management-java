@@ -162,8 +162,7 @@ pipeline {
 ###  Author
 
 **Aishwarya Pawar**
-Cloud & DevOps Enthusiast ☁️
-🔗 [GitHub: AishwaryaPawar149](https://github.com/AishwaryaPawar149)
+ [GitHub: AishwaryaPawar149](https://github.com/AishwaryaPawar149)
 
 ---
 
