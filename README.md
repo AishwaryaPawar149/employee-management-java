@@ -18,17 +18,6 @@ The **Employee Management System** is a web-based Java application built using S
 
 ---
 
-###  Project Architecture
-
-```
-Three-Tier Architecture
-├── Presentation Layer (HTML, JSP)
-├── Application Layer (Java Servlets)
-└── Database Layer (MySQL RDS)
-```
-
----
-
 ###  Folder Structure
 
 ```
